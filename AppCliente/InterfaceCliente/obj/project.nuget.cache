@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EMVWUMQ0IBu4rx+a0dwRVUK91kWBPDJJY/TIL6r6fOE3e9ByZF/3NdlTvNAXL0L1KIFP5hj9BatNmSGsYH1U0g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\melic\\OneDrive\\Documents\\UNED\\PrograAvanzada\\PrograAvanzada\\AppCliente\\InterfaceCliente\\InterfaceCliente.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\melic\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
